@@ -3,15 +3,19 @@
 <h3 align="center">Skilled Full Stack and Software Developer with expertise in web and application design and development, delivering high-quality results.</h3>
 <img align="right" alt="Coding" width="400" src="download.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lashman-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Lashman-singh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lashman-singh&label=Profile%20views&color=0e75b6&style=flat" alt="lashman-singh" /> </p>
 
 - 🔭 I’m currently working on **Airbnb clone**
 
-- 🌱 I’m currently learning **MERN, Mobile app developement**
+- 🌱 I’m currently learning **MERN, Web and app development**
+
+- 👯 I’m looking to collaborate on **New projects**
 
 - 👨‍💻 All of my projects are available at [https://e-portfolio-gules-kappa.vercel.app/](https://e-portfolio-gules-kappa.vercel.app/)
 
 - 💬 Ask me about **Software and web developer**
+
+- 📫 How to reach me **lashmansingh38034@gmail.com**
 
 - ⚡ Fun fact **I am a singer and musician**
 
